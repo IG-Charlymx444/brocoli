@@ -15,6 +15,7 @@ public class Operacion {
 * @return Array de string n donde cada posicion representa una division de la cadena de texto.
 */
 public String[] separar(String valor){ 
+// Sexo, drogas y nomas :)
 String[] elementos = valor.split("-");
 return elementos;}
 }
